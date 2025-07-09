@@ -1,0 +1,1 @@
+Um Assistente de IA para Gamers. Imagine um aplicativo com design moderno e animações, que te auxilia nos jogos e dá dicas de estratégia em tempo real, tudo isso usando a API do Gemini como o cérebro do nosso assistente.
