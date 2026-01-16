@@ -8,7 +8,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Gemini API](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-  ![Alura](https://img.shields.io/badge/Alura-Imersão_IA-051933?style=for-the-badge&logo=alura&logoColor=white)
+  ![Rocketseat](https://img.shields.io/badge/Rocketseat-NLW_Agentes-8257E5?style=for-the-badge&logo=rocket&logoColor=white)
 
   <br>
   
@@ -17,7 +17,7 @@
 <br>
 
 ## 🚀 Sobre o Projeto
-Este projeto foi desenvolvido durante a **Imersão IA da Alura** (ou insira o nome do curso aqui).
+Projeto desenvolvido durante o **NLW Agentes**, evento prático promovido pela **Rocketseat**.
 O objetivo foi criar um **Assistente de IA para Gamers** que utiliza a poderosa API do **Gemini** para fornecer dicas, estratégias e análises em tempo real.
 
 O diferencial não está apenas na inteligência, mas na experiência: desenvolvi uma interface com **design moderno e animações fluidas**, criando uma imersão total para o usuário.
@@ -58,7 +58,7 @@ O diferencial não está apenas na inteligência, mas na experiência: desenvolv
 
 <div align="center">
   
-  Desenvolvido por [Seu Nome](https://github.com/SEU_USUARIO) com apoio da 
-  <a href="https://www.alura.com.br/">Alura</a>.
+  Desenvolvido por [Seu Nome](https://github.com/SEU_USUARIO) 💜 durante o NLW da 
+  <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 
 </div>
