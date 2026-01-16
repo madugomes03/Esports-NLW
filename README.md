@@ -58,7 +58,8 @@ O diferencial não está apenas na inteligência, mas na experiência: desenvolv
 
 <div align="center">
   
-  Desenvolvido por [Seu Nome](https://github.com/SEU_USUARIO) 💜 durante o NLW da 
+  Desenvolvido por [Maria Eduarda Gomes](https://github.com/SEU_USUARIO) 💜 durante o NLW da 
   <a href="https://www.rocketseat.com.br/">Rocketseat</a>.
 
 </div>
+
